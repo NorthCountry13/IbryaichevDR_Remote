@@ -9,7 +9,7 @@
     }
     // Ибряйчев Дмитрий Романович Ам-1-25
 }
-//solve task2
+
 
 
 namespace YourProjectName

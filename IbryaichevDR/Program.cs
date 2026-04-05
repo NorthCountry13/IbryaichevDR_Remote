@@ -7,4 +7,5 @@
             Console.WriteLine("Hello, World!");
         }
     }
+    // Ибряйчев Дмитрий Романович Ам-1-25
 }

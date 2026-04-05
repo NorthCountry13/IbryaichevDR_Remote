@@ -28,5 +28,7 @@ namespace YourProjectName
         {
             return X * X;
         }
+
+        //solve task3
     }
 }

@@ -28,6 +28,7 @@ namespace YourProjectName
         {
             return X * X;
         }
+        //new_feature
         //solve task1
 
     }

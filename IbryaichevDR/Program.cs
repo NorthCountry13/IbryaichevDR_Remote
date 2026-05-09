@@ -4,12 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
         }
+        //Изменение
+        //IbryaichevDR, Am-1-25
+        //ЛР 2.2
+        ////Updarw for task 7
+        ////new_feature
+        ///solve task1
+        ///solve task2
     }
-    // Ибряйчев Дмитрий Романович Ам-1-25
-}
 
+}
 
 
 namespace YourProjectName

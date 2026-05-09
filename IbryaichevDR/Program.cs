@@ -37,10 +37,6 @@ namespace YourProjectName
 
         //solve task3
         ////solve task3
-        ///для изм
-        //для изм2
-        //12345
-
-
+        //solve task4
     }
 }
